@@ -10,6 +10,6 @@ Currently learning and practicing SQL, Python and data analysis.
 
 ## Projects
 - [SQL Analytics](https://github.com/Fedxeven/sql-analytics)
-- [E-commerce Analysis](https://github.com/Fedxeven/ecommerce-analysis)
 - [Product Funnel Analysis](https://github.com/Fedxeven/product-funnel-analysis)
+- [E-commerce Analysis](https://github.com/Fedxeven/ecommerce-analysis)
 - [A/B Test Analysis](https://github.com/Fedxeven/ab-test-analysis)
