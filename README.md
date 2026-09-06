@@ -10,8 +10,4 @@ Currently learning and practicing SQL, Python and data analysis.
 - Data Analysis
 
 ## Projects
-
-- SQL Analytics
-- Data Analysis with Python
-- Product Analytics
-- A/B Testing
+Currently working on my first analytics projects.
